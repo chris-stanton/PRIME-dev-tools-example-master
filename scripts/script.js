@@ -37,10 +37,11 @@ var startMeUp = function(){
   someWordyThing();
   // add some random number to the globalNumber
   globalNumber += someMathyThing();
-
 }
+showGlobals();
 
 
 // Cnanges that were made below:
 
-// Removed showGlobal(); from bottom of page line 40.
+//  Added an s to showGlobal() making it showGlobals on line 41.
+//  Added a second " ' " on line 28 around (added in someWordyThing)
