@@ -41,4 +41,6 @@ var startMeUp = function(){
 }
 
 
-// Remove showGlobal(); from bottom of page.
+// Cnanges that were made below:
+
+// Removed showGlobal(); from bottom of page line 40.
